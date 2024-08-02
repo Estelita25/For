@@ -1,0 +1,1 @@
+//o comando for é uma ferramenta fundamental para repetir operações em programação, economizando a necessidade de escrever o mesmo código várias vezes e permitindo a execução de tarefas repetitivas de forma eficiente.
